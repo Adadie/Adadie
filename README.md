@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**Adadie Jr.** is a ✨ software engineer ✨ with experience in web and mobile app development, also a big fan of agile ceremonies🕺🕺.
+**Adadie** is a ✨ software engineer ✨ with experience in web and mobile app development, also a big fan of agile ceremonies🕺🕺.
 
 - 🔭 I’m currently working on web and mobile applications
 - 🌱 I’m currently learning nestJS & JAVA
